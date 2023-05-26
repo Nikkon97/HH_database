@@ -1,0 +1,5 @@
+my_database = "Course_project"
+my_password = "635427Qw"
+my_user = "postgres"
+my_host = "127.0.0.1"
+my_port = "5432"
